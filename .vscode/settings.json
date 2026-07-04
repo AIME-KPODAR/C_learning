@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "forLoopExample.C": "cpp",
+        "TEST.C": "cpp",
+        "stdio.h": "c",
+        "limits.h": "c",
+        "time.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "problems.decorations.enabled": true,
+    "problems.defaultViewMode": "tree",
+    "problems.showCurrentInStatus": true,
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/gcc.exe"
+}

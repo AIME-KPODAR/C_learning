@@ -1,0 +1,1 @@
+Secondes != 0 || Secondes != 1
